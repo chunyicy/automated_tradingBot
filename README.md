@@ -11,3 +11,8 @@ owns
 
 ## Run the project
 You need to download <i><ins>Visual Studio</ins></i> to run the codes
+
+<br/>
+
+
+![autoTrade](https://user-images.githubusercontent.com/116086176/197416881-b9063082-78a5-4d69-bbb1-d4ee7f5d3742.jpg)
